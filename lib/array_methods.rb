@@ -21,7 +21,7 @@ end
 
 def using_first(array)
   
-  array.first
+  return array.first
 
 end
 
