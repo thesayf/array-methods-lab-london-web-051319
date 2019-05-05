@@ -7,7 +7,7 @@ def using_sort(array)
 
 new_array = array.sort
 
-return array
+return new_array
 
 end
 
